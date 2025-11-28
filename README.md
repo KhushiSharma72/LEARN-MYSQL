@@ -5,7 +5,7 @@ This repository contains all the MySQL queries and practice problems I’ve solv
 
 ---
 
-## 📘 What’s Inside
+## 📘 What’s Inside..
 
 - 📝 SQL practice files organized by topic
 - 💻 Real-world problems and solutions
