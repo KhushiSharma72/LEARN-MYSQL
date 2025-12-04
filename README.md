@@ -1,4 +1,4 @@
-# LEARN-MYSQL
+# LEARN-MYSQL...
 # MySQL Practice Repository 🐬
 
 This repository contains all the MySQL queries and practice problems I’ve solved while learning SQL. The queries were written and tested using platforms like MySQL Online Editors, LeetCode, HackerRank, and others.
